@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules",
+    "\\node_modules\\@angular",
+    "\\node_modules\\@angular\\core",
+    "\\node_modules\\@angular\\core\\src",
+    "\\node_modules\\@angular\\core\\src\\di",
+    "\\node_modules\\@angular\\core\\src\\metadata",
+    "\\src",
+    "\\src\\app"
+  ],
+  "SelectedNode": "\\node_modules\\@angular\\core\\src\\di\\metadata.d.ts",
+  "PreviewInSolutionExplorer": false
+}
